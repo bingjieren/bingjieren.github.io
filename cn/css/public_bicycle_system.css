@@ -76,6 +76,7 @@ a{
 	border-radius: 10px;
 	padding: 10px;
 	margin: 0 0 2%;
+	width: auto;
 }
 
 .app-icon{
@@ -297,6 +298,7 @@ a{
 	#design_meaning_photo{
 		display: flex;
 		margin: 0 7%;
+		width: auto;
 	}
 
 	.three_photo-left{
@@ -317,6 +319,7 @@ a{
 
 	.persona-list{
 		margin: 2% 10% 4%;
+		width: auto;
 	}
 
 	.interview-img{

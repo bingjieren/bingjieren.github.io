@@ -183,11 +183,25 @@ a{
 .action_div_first{
 	display: none;
 	top: -35px;
-	right: -100px;
+	right: 18px;
 	text-align: center;
 	width: 185px;
-	background-color: #fff;
 	padding: 14px 19px;
+	position: relative;
+}
+
+.action_div_first_content::after{
+	content: '';
+	border-width: 10px;
+	width: 0px;
+	height: 0px;
+	display: block;
+	border-color: transparent;
+	border-style: solid;
+	position: absolute;
+	border-bottom-color: #fff;
+	top: -5px;
+	left: 40px;
 }
 
 .action_div_first p{

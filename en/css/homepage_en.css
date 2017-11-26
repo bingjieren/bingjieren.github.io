@@ -86,17 +86,11 @@ img{
 }
 
 #port2-title{
-	position: absolute;
-	z-index: 1;
-	text-align: center;
 	color: #fff;
-	top: 50%;
-	transform: translateY(-50%);
 }
 
 #bicycle-title{
 	margin: 12% 0 0 10%;
-	width: 61%;
 	position: absolute;
 	z-index: 1;
 }
@@ -116,6 +110,22 @@ img{
 .copyright{
 	padding-top: 40px;
 	padding-bottom: 0px;
+}
+
+.homepage_btn{
+	width: 200px;
+	margin-left: 2%;
+	margin-top: 5%;
+}
+
+.component_btn{
+	width: 260px;
+	margin: 5% auto 0px;
+}
+
+.bicycle_btn{
+	width: 260px;
+	margin-top: 45%;
 }
 
 @media screen and (max-width: 768px) {
@@ -140,9 +150,49 @@ img{
  		font-size: 40px;
 		text-align: center;
 		padding: 12% 0 8%;
+		font-size: 0.9rem;
 	}
 
+	#port2-title{
+		font-size: 0.9rem;
+		padding: 12% 8% 8%;
+		width: auto;
+	}
 
+	.homepage_btn{
+		margin: 5% auto!important;
+	}
+
+	.component_btn{
+		margin: 5% auto 0px;
+	}
+
+	.bicycle_btn{
+		margin: 5% auto;
+	}
+
+	#bicycle-title{
+		width: auto;
+		padding: 20% 10% 0;
+		margin: 0;
+	}
+
+	#bicycle-main-title{
+		width: 80%;
+		font-size: 0.90rem;
+		color: #fff;
+		margin-bottom: 4%;
+	}
+
+	#bicycle-vice-title{
+		font-size: 0.48rem;
+		color: #fff;
+		width: 76%;
+	}
+
+	#bicycle-cover-img{
+		display: none;
+	}
 }
 
 @media screen and (min-width: 768px) {
@@ -159,6 +209,18 @@ img{
 	}
 
 	#item1{
+	}
+
+	#item2{
+		position: relative;
+	}
+
+	#port2-title{
+		position: absolute;
+		z-index: 1;
+		text-align: center;
+		top: 50%;
+		transform: translateY(-50%);
 	}
 
 	#port-img1{
@@ -202,6 +264,12 @@ img{
 
 	#library-vice-title{
 		font-size: 0.48rem;
+	}
+
+	#bicycle-title{
+		width: 100%;
+		padding: 20% 10% 0;
+		margin: 0;
 	}
 
 	#bicycle-main-title{

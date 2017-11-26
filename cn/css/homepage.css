@@ -86,18 +86,9 @@ img{
 	background-repeat: no-repeat;	
 }
 
-#port2-title{
-	position: absolute;
-	z-index: 1;
-	text-align: center;
-	color: #fff;
-	top: 50%;
-	transform: translateY(-50%);
-}
 
 #bicycle-title{
 	margin: 12% 0 0 10%;
-	width: 61%;	
 	position: absolute;
 	z-index: 1;
 }
@@ -109,6 +100,26 @@ img{
 .copyright{
 	padding-top: 40px;
 	padding-bottom: 0px;
+}
+
+.homepage_btn{
+	width: 200px;
+	margin-left: 8%;
+	margin-top: 5%;
+}
+
+.component_btn{
+	width: 260px;
+	margin: 5% auto 0px;
+}
+
+.bicycle_btn{
+	width: 260px;
+	margin-top: 45%;
+}
+
+#port2-title{
+	color: #fff;
 }
 
 @media screen and (max-width: 768px) {
@@ -133,10 +144,17 @@ img{
  		font-size: 40px;
 		text-align: center;
 		padding: 12% 0 8%;
+		font-size: 0.9rem;
+	}
+
+	#port2-title{
+		font-size: 0.9rem;
+		padding: 12% 8% 8%;
+		width: auto;
 	}
 
 	#bicycle-title{
-		width: 100%;
+		width: auto;
 		padding: 20% 10% 0;
 		margin: 0;
 	}
@@ -158,6 +176,18 @@ img{
 		display: none;
 	}
 
+	.homepage_btn{
+		margin: 5% auto!important;
+	}
+
+	.component_btn{
+		margin: 5% auto 0px;
+	}
+
+	.bicycle_btn{
+		margin: 5% auto;
+	}
+
 }
 
 @media screen and (min-width: 768px) {
@@ -177,7 +207,24 @@ img{
 		float: right;
 	}
 
+	#bicycle-title{
+		width: 61%;
+	}
+
 	#item1{
+	}
+
+	#item2{
+		position: relative;
+	}
+
+	#port2-title{
+		position: absolute;
+		z-index: 1;
+		text-align: center;
+		color: #fff;
+		top: 50%;
+		transform: translateY(-50%);
 	}
 
 	#port-img1{
@@ -224,7 +271,6 @@ img{
 	#bicycle-mobile-cover-img{
 		display: none;
 	}
-
 }
 
 
