@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ymatou Seller's Homepage Redesign</title>
+  <link rel="stylesheet" href="../../css/ymt_homepage.css"/>
+	<link rel="stylesheet" href="../../css/common.css"/>
+</head>
+<body>
+<!--navigation bar-->
+<header class="nav">
+	<div class="nav-bar opacity_septicial">
+		<div class="nav-left">
+			<a href="../../homepage.html" target="_self">BINGJIE REN'S&nbsp;&nbsp;&nbsp;PORTFOLIO</a>
+		</div>
+		<div class="nav-right">
+			<ul class="menu-list">
+				<li><a class="menu-home" href="../../homepage.html">首页</a></li>
+				<li><a class="menu-project" href="../projects_list.html">项目</a></li>
+				<li><a class="menu-resume" href="../../resume/cv_cn.pdf" target="_blank">简历</a></li>
+				<li><a class="menu-contact" href="#contact">联系方式</a></li>
+				<li><a class="menu-lan-ex" href="../../../en/pages/detail/ymt_homepage_en.html">EN</a></li>
+				<div class="blank_clear"></div>
+			</ul>
+			<a class="mobile-menu-icon" id="menu-icon"><img src="../../images/mobile_menu_icon.png"></a>
+			<a class="mobile-menu-icon" id="cancel-icon"><img src="../../images/mobile_cancel_icon.png"></a>
+		</div>
+	</div>
+	<div class="nav-dropdown">
+		<ul class="dropdown-list">
+			<li><a class="dropdown-home" href="../../homepage.html">首页</a></li>
+			<li><a class="dropdown-project" href="../projects_list.html">项目</a></li>
+			<li><a class="dropdown-resume" href="../../resume/cv_cn.pdf" target="_blank">简历</a></li>
+			<li><a class="dropdown-contact" href="#contact">联系方式</a></li>
+			<li><a class="dropdown-lan-ex" href="../../../en/pages/detail/ymt_homepage_en.html">EN</a></li>
+		</ul>
+	</div>
+</header>
+<!--first frame-封面-->
+	<div id="cover">
+		<div>
+			<div class="fs-left" id="fs-title">
+				<p>洋码头买手后台系统</p>
+				<p id="vice-title">PC/APP主页改版</p>
+			</div>
+			<div class="fs-right" id="fs-img"><img src="../../images/ymt_redesign_cover_mockup.png"/></div>
+		</div>
+	</div>
+<!--second frame-项目概览-->
+	<div class="bg gbg" id="overview">
+		<div id="ymt-redesign-overview">
+			<p class="overview-title">项目概览</p>
+			<p class="overview-content"><span>项目时间：</span>2016.08-2016.10</p>
+			<p class="overview-content"><span>项目简介：</span>每个做生意的人最关心的问题一定是和生意相关的问题（比如成交额和成交量等）和待办事项（比如接单，发货，回答买家的问题等）。<br/>之前首页的信息展露不合理，进入首页的入口不明显，买手用户进入后台的容易迷失。通过对首页的改版，在首页合理露出信息，让用户的操作更为聚焦。</p>
+		</div>
+		<div id="team-role">
+			<p class="overview-title">团队角色</p>
+			<p class="overview-content"><span>角色定位：</span>用户研究，交互设计</p>
+			<p class="overview-content"><span>方法：</span>头脑风暴，用户访谈，快速原型生成</p>
+			<p class="overview-content"><span>负责内容：</span></br>设定目标和任务</br>洞悉用户痛点</br>用户访谈</br>创建用户场景</br>用户路径分析</br>信息架构梳理</br>低保真/高保真原型图</br>改版设计</p>
+		</div>
+		<div id="timeline"><img src="../../images/ymt_redesign_timeline.png"/></div>	
+	</div>
+<!--third frame-旧版首页概览-->
+	<div class="bg bbg" id="historical-page">
+		<p class="ct">旧版首页概览</p>
+		<p class="dscr">2016年8月之前版本的首页的问题非常突出，组成页面主体的三个内容区块含有较少有效信息，信息层次与其重要程度不相称，而页面顶栏这个容易被用户忽视的区域却充满各种的信息，杂乱无重点。另外，页面选用的UI也需要优化。总体来说，旧版首页的信息层级结构不合理，用户对首页的使用率非常低。</p>
+		<div class="ct-img"><img src="../../images/ymt_redesign_oldpage.png"/></div>
+	</div>
+<!--forth frame-改版目标-->
+	<div class="bg gbg" id="redesign-goal">
+		<p class="ct">改版主要目标</p>
+		<p class="dscr spcl">首页本质上是一个导航页(Navigation Page)，它的最终目标是分流，即引导用户去其他的页面。商家后台的主页同样也扮演了这样一个角色，它需要帮助商家用户快速清晰地定位他们想要获取的信息，提供通往其他功能模块的着陆页面的快速通道，以及提醒他们需要处理的事务。</br>因此主要的改版目标有：</p>
+		<div class="rg-list">
+			<div class="rg-item">
+				<p class="rg-item-name">重新布局：</p>
+				<p class="rg-item-dscr">根据买手用户对不同模块业务的关注度，使用频率以及所接受消息与其关联程度重构首页布局。</p>
+			</div>
+			<div class="rg-item">
+				<p class="rg-item-name">聚焦生意：</p>
+				<p class="rg-item-dscr">首页作为经营生意的聚合窗口，扮演了“工作台”的功能，买手用户能通过首页快速的解决和生意相关的问题。</p>
+			</div>
+			<div class="rg-item">
+				<p class="rg-item-name">提高效率：</p>
+				<p class="rg-item-dscr">让买手用户能快速地处理代办事项，知悉重要的事项和了解当前的经营状态。</p>
+			</div>
+		</div>
+	</div>
+<!--fifth frame-后台首页的三个主要功能-->
+	<div class="bg bbg" id="three-question">
+		<p class="ct" id="ct-spcl">后台首页主要解决用户的 3 个问题：</p>
+		<div class="trq-content">
+			<div class="trqc-item">
+				<img src="../../images/ymt_redesign_three_qst_1.png"/>
+				<p class="trqc-eg">例如：<br/>
+				赚了多少钱？<br/>
+				有多少人下单了？<br/>
+	 			生意有没有变好？</p>
+			</div>
+			<div class="trqc-item">
+				<img src="../../images/ymt_redesign_three_qst_2.png"/>
+				<p class="trqc-eg">例如：<br/>
+				有顾客来提问吗？回复了吗？<br/>
+				有多少未接订单？<br/>
+				有多少订单今天要发货？<br/>
+				之前的单有没有需要退换货处理的？<br/>
+				有没有违规要处理的？<br/>
+				在售的商品有缺货吗？</p>
+			</div>
+			<div class="trqc-item">
+				<img src="../../images/ymt_redesign_three_qst_3.png"/>
+				<p class="trqc-eg">例如：<br/>
+				如何让老顾客再下单？<br/>
+				如何吸引更多的新客？<br/>
+				需要增加新的商品吗？<br/>
+				如何让生意变得更好？</p>
+			</div>
+			<div class="blank_clear">
+		</div>
+	</div>
+<!--sixth frame-用户概念路径图-->
+	<div class="bg wbg" id="concept-path">
+		<p class="ct">用户概念路径图</p>
+		<p class="center-dscr">根据以往数据和用户调研信息，从用户角度梳理了买手用户进入买手后台的主要操作路径。</p>
+		<div class="ct-img"><img src="../../images/ymt_redesign_concept_path.png"/></div>
+	</div>
+<!--seventh frame-功能信息层级图-->
+	<div class="bg gbg" id="ia">
+		<p class="ct">功能信息层级图</p>
+		<p class="center-dscr">根据用户路径以及产品端对功能划分的定义，构建了功能信息层级图。主要的功能模块为五大块，涵盖了十多个重要导航入口。</p>
+		<div class="ct-img"><img src="../../images/ymt_redesign_ia.png"/></div>
+	</div>
+<!--eighth frame-用户研究发现-->
+	<div class="bg wbg" id="research-findings">
+		<p class="ct">用户研究发现</p>
+		<p class="dscr">收集了6个用户的调研数据，并和之前的用户调研信息做比对，发现了三个忽略的问题点。这几个问题点为我们定位问题和形成功能模块提供了参考依据。</p>
+		<div class="ur-fd">
+			<div class="ur-fd-item">
+				<p class="ur-fd-title">发现 1</p>
+				<img src="../../images/ymt_redesign_ur_fd_1.png"/>
+				<p class="ur-fd-dscr">买手没有我们想象的“专业”<br/>
+				在很多情况下需要指导</p>
+			</div>
+			<div class="ur-fd-item">
+				<p class="ur-fd-title">发现 2</p>
+				<img src="../../images/ymt_redesign_ur_fd_2.png"/>
+				<p class="ur-fd-dscr">买手会使用不同的设备来完成特定任务</p>
+			</div>
+			<div class="ur-fd-item">
+				<p class="ur-fd-title">发现 3</p>
+				<img src="../../images/ymt_redesign_ur_fd_3.png"/>
+				<p class="ur-fd-dscr">在国外生活的买手希望以当地货币计算盈亏</p>
+			</div>
+			<div class="blank_clear">
+		</div>
+	</div>
+<!--ninth frame-页面信息布局-->
+	<div class="bg gbg" id="layout">
+		<p class="ct">页面信息布局</p>
+		<p class="dscr">页面功能的平铺，采用卡片式设计将功能组块在首页平铺展现，首页首屏优先放置重要信息。如下图所示，1-7为首页首屏展现的重要信息。由于APP和Web页面大小存在差异，因此在布局上也略有不同。PC主要是左右中布局，在中间又根据信息的重要程度以不同大小的卡片区块划分；APP则是上下结构，一些相对次级的信息收入到二级页面当中。</p>
+		<div class="ct-img" id="layout-img"><img src="../../images/ymt_redesign_layout.png"/></div>
+	</div>
+<!--tenth frame-pc交互稿-->
+	<div id="pc-prototype">
+		<div class="bg bbg">
+			<p class="ct">高保真原型图</p>
+			<p class="dscr">根据之前整理的用户概念路径，功能信息层级以及用户研究的反馈，设计了几个重要功能模块的展示方案以及需要展示的概念功能，绘制了低保真原型图。随后，采用项目相关方头脑风暴以及非相关方快速测试的方式收集数据，对不同的概念进行整合和优化。最终，绘制了高保真原型图及书写了相关交互说明文档。</p>
+			<div class="ct-img"><img src="../../images/ymt_redesign_page.png"/></div>
+	<!--交互说明-->
+			<p class="ct">特征</p>
+		</div>
+<!--说明1-->
+		<div class="bg1 bbg">
+			<div class="pcp-img-left" id="pcp-img1"><img src="../../images/ymt_left_nav.png"/></div>
+			<div class="pcp-dscr-right" id="pcp-dscr1">
+				<div>
+					<div class="pcp-number-img"><img src="../../images/ymt_number_01.png"/></div>
+					<p class="pcp-dscr-title">左侧导航</p>
+				</div>
+				<p class="pcp-dscr-cnt">包含买手用户信息和自定义快捷入口。<br/>
+				页面原有的横向导航命名比较抽象，买手用户每次登陆页面需要一定的记忆成本或尝试多次寻找进入次级页面，增设左侧快捷入口减少用户的认知负荷，让用户快速定位到页面。<br/>
+				快捷入口的自定义功能主要用以满足不同买手对常用模块的差异化需求。<br/>
+				icon风格的导航设计主要减少不同设备切换的认知差异以及贴合未来响应式的应用。</p>
+			</div>
+			<div class="blank_clear"></div>
+		</div>
+<!--说明2-->
+		<div class="bg1 bbg">
+			<div class="pcp-dscr-left" id="pcp-dscr2">
+				<div>
+					<div class="pcp-number-img"><img src="../../images/ymt_number_02.png"/></div>					
+					<p class="pcp-dscr-title">数据卡片</p>
+				</div>
+				<p class="pcp-dscr-cnt">主要展示买手用户最为关心的数据，销售数据，账户余额和DSR分数。<br/>
+				销售数据卡片展示今日实时变化数据，点击进入详细的数据页面。<br/>
+				提供快速汇率换算功能，方便买手用户评估营收成本和盈亏。<br/>
+				常用汇率的自定义设置，满足来自不同地区买手的差异化需求。</p>
+			</div>
+			<div class="pcp-img-right" id="pcp-img2"><img src="../../images/ymt_card.png"/></div>
+			<div class="blank_clear"></div>
+		</div>
+<!--说明3/4-->
+		<div class="bg1 bbg">
+			<div class="pcp-img-left" id="pcp-img4"><img src="../../images/ymt_magic_lamp.png"/></div>
+			<div class="pcp-img-left" id="pcp-img3"><img src="../../images/ymt_info_center.png"/></div>
+			<div class="pcp-dscr-right" id="pcp-dscr3">
+				<div>
+					<div class="pcp-number-img ln-img"><img src="../../images/ymt_number_0304.png"/></div>
+					<p class="pcp-dscr-title">消息通知</p>
+				</div>
+				<p class="pcp-dscr-cnt">所有的通知都会出现在右侧的通知中心板块，新推送的通知附带标签。<br/>
+				重要的通知以顶层走马灯的形式动态滚动显示。<br/>
+				非常重要的通知（如警告类）以弹框的形式显示。</p>
+			</div>
+			<div class="blank_clear"></div>
+		</div>
+<!--说明5-->
+		<div class="bg1 bbg">
+			<div class="pcp-img-right" id="pcp-img5"><img src="../../images/ymt_seller_alert.png"/></div>
+			<div class="pcp-dscr-left" id="pcp-dscr5">
+				<div>
+					<div class="pcp-number-img"><img src="../../images/ymt_number_05.png"/></div>
+					<p class="pcp-dscr-title">待办提醒</p>
+				</div>
+				<p class="pcp-dscr-cnt">根据业务规则和内容分类型统计待办事项，以达到快速提醒买手的目的，买手通过点击数字可快速进入相应页面进行处理。<br/>
+				根据任务的重要和紧急程度，定义标红提醒的类型。<br/>
+				此区域置于首屏中心位置，保证重要的提醒置于用户浏览页面的视野中心。</p>
+			</div>
+			<div class="blank_clear"></div>
+		</div>
+<!--说明6-->
+		<div class="bg1 bbg">
+			<div class="pcp-img-left" id="pcp-img6"><img src="../../images/ymt_home_chart.png"/></div>
+			<div class="pcp-dscr-right" id="pcp-dscr6">
+				<div>
+					<div class="pcp-number-img"><img src="../../images/ymt_number_06.png"/></div>
+					<p class="pcp-dscr-title">数据趋势图</p>
+				</div>
+				<p class="pcp-dscr-cnt">显示买手用户关心的数据在一段时间内的趋势图。<br/>
+				可在页面向下叠放多个数据图。<br/>
+				当数据类型比较丰富时，开启用户自定义显示功能。</p>
+			</div>
+			<div class="blank_clear"></div>
+		</div>
+<!--说明7/8-->
+		<div class="bg1 bbg">
+			<div class="pcp-dscr-left" id="pcp-dscr7">
+				<div>
+					<div class="pcp-number-img ln-img"><img src="../../images/ymt_number_0708.png"/></div>
+					<p class="pcp-dscr-title">热销榜单</p>
+				</div>
+				<p class="pcp-dscr-cnt">买手用户热销榜单，主要方便其快速了解自己的热销商品。<br/>
+				热卖单品榜，某种程度上是为买手提供商品蓝海，显示的是相对热门以及买家用户的热搜商品。<br/>
+				热销榜单的提供主要是为买手的选品策略提供一些参考数据。</p>
+			</div>
+			<div class="pcp-img-right" id="pcp-img7"><img src="../../images/ymt_hotlist.png"/></div>
+			<div class="blank_clear"></div>
+		</div>
+	</div>
+<!--eleventh frame-app交互稿-->
+	<div class="bg gbg" id="app-prototype">
+		<p class="ct">APP首页改版</p>
+		<p class="center-dscr">App由于尺寸较小，首页无法展示所有信息，因此通过几个页面囊括所有信息。</p>
+		<div class="ct-img"><img src="../../images/ymt_app_interface.png"/></div>
+	</div>
+<!--last frame-验证数据-->
+	<div class="bbg">
+		<p id="verification" class="center-dscr">新版首页成为用户在使用后台操作系统时<br/>
+			使用率<span>最高</span>的一个页面</p>
+		<div class="center-dscr"><span>访问：</span><a href="http://seller.ymatou.com/" target="_blank">seller.ymatou.com</a></div>
+	</div>
+<!--作品集列表-->
+	<div class="port-list">
+	</div>
+<!--版权说明-->
+	<footer>
+		<div class="copyright">
+			<span>Code & Design by Bingjie Ren &copy;&nbsp;2017</span>
+			<span>Last update: 2017-06-23 @ SH, China</span>
+		</div>
+	</footer>
+	<div class="top"></div>
+	<script src="../../js/common.js"></script>
+	<script>
+		(function () {
+	      var html = document.documentElement
+	      var windowWidth = html.clientWidth
+	      html.style.fontSize = windowWidth / 10.24 + 'px'
+	    })()
+	</script>
+</body>
+
+
+
+

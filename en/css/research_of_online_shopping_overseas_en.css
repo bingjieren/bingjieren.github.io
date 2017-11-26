@@ -1,0 +1,190 @@
+*{
+	margin:0;
+	padding:0;
+	font-size: 0.14rem;
+	overflow-x: hidden;
+	font-family: "黑体",PingFangSC, Helvetica, Arial, sans-serif;
+}
+
+img{
+	width: 100%;
+	display: block;
+}
+
+a{
+	cursor:pointer;
+	text-decoration: none;
+	color: #fff;
+}
+
+.bg1{
+	width: 100%;
+	background-color: #E9EDEF;
+	color: #000000;
+}
+
+.bg2{
+	width: 100%;
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.bg3{
+	width: 100%;
+	background-color: #041C30;
+	color: #ffffff;
+}
+
+.ct{
+	text-align: center;
+}
+
+.overview-content span{
+	color: #036EB7;
+	font-weight: bold;
+}
+
+.explain-title{
+	color: #000000;
+	text-align: center;
+	font-size: 0.20rem;
+}
+
+@media screen and (max-width: 768px){
+	.bg{
+		padding: 10% 0 12%;
+	}
+
+	.ct{
+		font-size: 0.64rem;
+		padding: 0 0 4%;
+	}
+
+	.bg-data, .persona-img{
+		width: 84%;
+		margin: 0 auto 2%;
+
+	}
+
+	.mj-img{
+		width: 84%;
+		margin: 5% auto 10%;
+	}
+
+	.dscr{
+		margin: 0 auto 5%;
+		width: 88%;
+		font-size: 0.24rem;
+	}
+
+	#research-overview, #team-role{
+		width: 88%;
+		margin: 5% auto;
+	}
+
+	.overview-title{
+		margin-bottom: 5%;
+		font-size: 0.64rem;
+	}
+
+	.overview-content{
+		margin: 0 0 10px;
+		font-size: 0.20rem;
+	}
+
+	.explain-title{
+		font-size: 0.28rem;
+		margin: 6% auto 2%;
+	}
+
+	.photo{
+		width: 80%;
+		margin: 6% auto 4%;
+	}
+
+	.photo-right{
+		margin-bottom: 8%;
+	}
+
+	.conclution{
+		width: 90%;
+		font-size: 0.32rem;
+		margin: 2% auto 4%;
+	}
+
+
+}
+
+@media screen and (min-width: 768px){
+	.bg{
+		padding: 5% 0 0;
+	}
+
+	.ct{
+		font-size: 0.36rem;
+		padding: 4% 0 2%;
+	}
+
+	.dscr{
+		width: 84%;
+		margin: 0 8% 5%;
+	}
+
+	.overview-title{
+		margin-bottom: 10%;
+		font-size: 36px;
+	}
+
+	.overview-content{
+		margin: 0 0 20px;
+	}
+
+	#research-overview{
+		float: left;
+		width: 45%;
+		margin: 8% 5% 4% 10%;
+	}
+
+	#team-role{
+		float: right;
+		width: 35%;
+		margin: 8% 5% 4% 0;
+	}
+
+	.bg-data, .persona-img{
+		width: 80%;
+		margin: 0 auto 2%;
+
+	}
+
+	.mj-img{
+		width: 80%;
+		margin: 2% auto 12%;
+	}
+
+	
+	.explain-title{
+		margin: 4% auto 2%;
+	}
+
+	.photo-left{
+		float: left;
+		width: 38%;
+		margin: 5% 4% 12% 10%;
+	}
+
+	.photo-right{
+		float: right;
+		width: 38%;
+		margin: 5% 10% 12% 0;
+	}
+
+
+	.conclution{
+		width: 85%;
+		margin: 5% auto 10%;
+		font-size: 0.28rem;
+	}
+
+
+}

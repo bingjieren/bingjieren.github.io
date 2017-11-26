@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YMT Component Library</title>
+  <link rel="stylesheet" href="../../css/ymt_component_library_en.css"/>
+  <link rel="stylesheet" href="../../css/common_en.css"/>
+</head>
+<body>
+<!--navigation bar-->
+<header class="nav">
+	<div class="nav-bar opacity_septicial">
+		<div class="nav-left">
+			<a href="../../homepage_en.html" target="_self">BINGJIE REN'S&nbsp;&nbsp;&nbsp;PORTFOLIO</a>
+		</div>
+		<div class="nav-right">
+			<ul class="menu-list">
+				<li><a class="menu-home" href="../../homepage_en.html">Home</a></li>
+				<li><a class="menu-project" href="../projects_list.html">Project</a></li>
+				<li><a class="menu-resume" href="../../resume/cv_en.pdf" target="_blank">Resume</a></li>
+				<li><a class="menu-contact" href="#contact">Contact</a></li>
+				<li><a class="menu-lan-ex" href="../../../cn/pages/projects_list.html">中文</a></li>
+				<div class="blank_clear"></div>
+			</ul>
+			<a class="mobile-menu-icon" id="menu-icon"><img src="../../images/mobile_menu_icon.png"></a>
+			<a class="mobile-menu-icon" id="cancel-icon"><img src="../../images/mobile_cancel_icon.png"></a>
+		</div>
+	</div>
+	<div class="nav-dropdown">
+		<ul class="dropdown-list">
+			<li><a class="dropdown-home" href="../../homepage_en.html">Home</a></li>
+			<li><a class="dropdown-project" href="../projects_list.html">Project</a></li>
+			<li><a class="dropdown-resume" href="../../resume/cv_en.pdf" target="_blank">Resume</a></li>
+			<li><a class="dropdown-contact" href="#contact">Contact</a></li>
+			<li><a class="dropdown-lan-ex" href="../../../cn/pages/projects_list.html">中文</a></li>
+		</ul>
+	</div>
+</header>
+<!--first frame-封面-->
+	<div id="cover">
+		<div class="title">
+			<p id="main-title">Component Library for Seller’s Platform of YMT</p>
+		</div>
+		<img id="cover-img" src="../../images/library_cover.png"/>
+	</div>
+<!--second frame-项目概览-->
+	<div class="bg bg1" id="overview">
+		<div id="library-overview">
+			<p class="overview-title">Overview</p>
+			<p class="overview-content"><span>Time: </span>2016.08-</p>
+			<p class="overview-content">Compare with that designed for buyers, the platform (including website and app) designed for sellers is featured with multi-thread and multi-function. Sellers not only have a great opportunity to handle with various tables, forms and data, but also have to struggle with complex operations and settings. Therefore, in order to reduce their chance of making mistakes and prevent them from getting lost in the operation process, we should ensure the fluency and effectiveness of interaction and the consistency of page layout through establishing a component library. Moreover, it also can improve the effectiveness of developing and communicating part with a set of referable rules and extractable components.</br>
+			We established a component library for seller’s platform of YMT according to its own features and needs based on the component library shared by Ant Design.</p>
+		</div>
+		<div id="team-role">
+			<p class="overview-title">Team Role</p>
+			<p class="overview-content"><span>Role: </span>Interaction Design</p>
+			<p class="overview-content"><span>What I did: </span></br>Establishing information hierarchy</br>Interaction design</br>High fidelity prototypes</br>A part of UI design</p>
+		</div>		
+	</div>
+<!--third frame-项目背景-->
+	<div class="bg bg2" id="background">
+		<p class="ct">Background of Project</p>
+		<p class="dscr">Compare with that designed for buyers, the platform (including website and app) designed for sellers is featured with multi-thread and multi-function. Sellers not only have a great opportunity to handle with various tables, forms and data, but also have to struggle with complex operations and settings. I found that there were some issues influence user experience significantly, for example, some terms are not unified and layout of similar pages are not consistency, since I joined the team designed for seller’s platform of YMT in 2016.</p>
+		<div id="historical-page"><img class="ct-img" src="../../images/library_historical_order_page.png"/></div>
+		<p class="mutiline-dscr">In addition, we realized that even though the function and operating process is complex on the platform, many pages share similar layout and components. If we establish a library of these frequently used components and set norms and standards for extracting them in different scenarios, on one hand it will reduce users’ cognitive loads and learning cost and on the other hand, it will definitely accelerate the iteration and make developing process more efficient.</p>
+		<p class="bottom-dscr">In this case, our team established the “Component Library for Seller’s Platform of YMT”, which is based on Ant Design provided by Alibaba, to benefit the designing and front-end developing process.</p>
+	</div>
+<!--forth frame-1-组件库描述-->
+	<div class="bg bg1">
+		<div>
+			<p class="ct">Component Library</p>
+			<p class="mutiline-dscr">Different from operating applications on mobile phone, people prefer to use mouse and keyboard instead of fingers when they react with computer. Since the plat form is designed different for computer and mobile phone, two components library had been established to satisfy our needs.</p>
+			<p class="mutiline-dscr">For example, the most common website pages of seller’s platform are list pages that help users to manage something closely related to their business. We defined the layout of these pages on different device as shown below.</p>
+		</div>
+		<div id="pc-layout" ><img src="../../images/library_web_layout.png"/></div>
+		<div id="mobile-layout"><img src="../../images/library_mobile_layout.png"/></div>
+		<p class="mutiline-dscr">Another example, the highly appearance of various feedbacks are pressed for ranking in terms of the interruption of flows and the importance of messages. So, we defined three kinds of reminder as follows.</p>
+<!--forth frame-2-WEB提示示例-->
+		<div id="web-notification">
+			<p class="explain-title">WEB</p>
+			<div class="notification-type">
+				<p class="type-title">Message</p>
+				<p class="type-dscr">The light feedback. It is used when the system need to show users its status without interrupting their interaction flow. E.g., copy and login.</p>
+				<div class="eg-btn">
+					<p style="padding-top: 15px; margin-bottom: 28px; height: 37px; line-height: 37px;">
+						<a id="click_btn_web_one" class="btn">CLICK ME</a>
+						<span id="click_btn_web_one_span" class="action_span_first">成功提示文案</span>
+					</p>
+					<p>
+						<a id="click_btn_web_two" class="btn">CLICK ME</a>
+						<span id="click_btn_web_two_span" class="action_span_second">错误提示文案</span>
+					</p>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">Popconfirm</p>
+				<p class="type-dscr">It is shown with pointer. It is used when we need users to confirm their action with less interruption of their interaction flow. </p>
+				<div class="eg-btn">
+					<a id="click_btn_web_three" class="btn">CLICK ME</a>
+				</div>
+				<div class="action_div_first">
+					<div>
+						<p class="action_div_title">确认操作文案?</p>
+						<p>
+							<a id="click_btn_web_four" class="btn">Cancel</a>
+							<a id="click_btn_web_five" class="btn">Save</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">Alert</p>
+				<p class="type-dscr">It is shown on the center of screen with layer. It used when we need users to confirm their action to alert risk and ask them to correct their choice so as to continue.</p>
+				<div class="eg-btn">
+					<a id="click_btn_web_six" class="btn">CLICK ME</a>
+				</div>
+			</div>
+		</div>
+<!--forth frame-3-APP提示示例-->
+		<div id="mobile-notification">
+			<p class="explain-title">APP</p>
+			<div class="notification-type">
+				<p class="type-title">Message</p>
+				<p class="type-dscr">The light feedback. It is shown closely to the input or touch-point without interrupting their interaction flow.</p>
+				<div class="mobile-eg" style="position: relative;">
+					<img id="app_one_img_first" src="../../images/library_mobile_notification.png"/>
+					<img id="app_one_img_second" src="../../images/Group.png"/>
+					<a id="click_btn_app_one" class="btn btn_in_phone">TOUCH ME</a>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">Toast</p>
+				<p class="type-dscr">It is shown on the center of screen and disappears automatically after 3-5 seconds. It is usually used to show the system status.</p>
+				<div class="mobile-eg" style="position:relative;">
+					<img src="../../images/library_mobile_notification.png"/>
+					<a id="click_btn_app_two" class="btn btn_in_phone">TOUCH ME</a>
+					<div class="action_toast">
+						<span class="toast_icon"></span>
+						<span>toast提示文案</span>
+					</div>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">Alert</p>
+				<p class="type-dscr">It is shown on the center of screen with layer. It used when we need users to confirm their action to alert risk or prevent mistakes.</p>
+				<div class="mobile-eg" style="position:relative;">
+					<img src="../../images/library_mobile_notification.png"/>
+					<a id="click_btn_app_three" class="btn btn_in_phone">TOUCH ME</a>
+					<div class="action_toast_whole">
+						<div class="action_toast_whole_div">
+							<p>弹框提示文案</p>
+							<p class="action_toast_whole_bottom">
+								<a id="app_three_btn_cancel">Cancel</a>
+								<a id="app_three_btn_confirm">Save</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+<!--forth frame-4-组件库截图-->
+		<p class="explain-title">The Component Library for Website</p>
+		<img class="ct-img" src="../../images/library_pclb_screenshot.png"/>
+		<p class="explain-title">The Component Library for Application</p>
+		<img class="ct-img" src=""/>
+<!--fifth frame-应用实例-->
+		<div>
+			<p class="ct">Application Examples</p>
+			<p class="explain-title">Optimizing Business Line of Transaction</p>
+			<img class="ct-img" src="../../images/library_pc_example.png"/>
+			<img class="mobile-ct-img" src="../../images/library_mobile_example.png"/>
+		</div>
+	</div>
+<!--sixth frame-小结-->
+	<div class="bg bg2">
+		<p class="ct">Conclusion</p>
+		<p class="conclution">The first version of component library just included part of components used on the seller’s platform. It is a long-term job to modify present components and establish a mature one which needs the cooperation from Interaction Designers, UI designers, project managers and front-end developers.</p>
+		<div class="bottom-dscr" id="visit"><span>Visit：</span><a href="http://ant.design" target="_blank">Ant Design</a></div>
+	</div>
+<!--作品集列表-->
+	<div class="port-list">
+	</div>
+	<div class="web_confirm_toast">
+		<div class="web_confirm_content">
+			<p>弹框确认提示文案?</p>
+			<p>
+				<a class="web_confirm_cancel">Cancel</a>
+				<a class="web_confirm_confirm">Save</a>
+			</p>
+		</div>
+	</div>
+<!--版权说明-->
+	<footer>
+		<div class="copyright">
+			<span>Code & Design by Bingjie Ren &copy;&nbsp;2017</span>
+			<span>Last update: 2017-06-23 @ SH, China</span>
+		</div>
+	</footer>
+	<div class="top"></div>
+	<script src="../../../cn/js/common.js"></script>
+	<script src="../../../cn/js/ymt_component_library.js"></script>
+	<script>
+		(function () {
+	      var html = document.documentElement
+	      var windowWidth = html.clientWidth
+	      html.style.fontSize = windowWidth / 10.24 + 'px'
+	    })()
+	</script>
+</body>
+
+
+
+

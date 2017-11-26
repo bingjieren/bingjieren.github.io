@@ -1,0 +1,223 @@
+*{
+	margin:0;
+	padding:0;
+	width: 100%;
+	font-family: PingFangSC, Helvetica, Arial, "黑体",sans-serif;
+}
+
+a{
+	cursor:pointer;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+img{
+	display: block;
+}
+
+.home-fs{
+	width: 100%;
+	height: 0px;
+	padding-bottom: 50%;
+	background-image: url(../images/demo.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.fs-cover{
+	height: 0px;
+	padding-bottom: 50%;
+	background: rgba(0,0,0,0.85);
+}
+
+.cover-text{
+	font-size: 72px;
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: #fff;
+}
+
+.cover-text span{
+	margin-right: 30px;
+}
+
+.ct-letter{
+	color: #358CCC;
+	font-style: normal;
+}
+
+.port-item{
+	width: auto;
+	padding-bottom: 50%;
+}
+
+.port-item:last-child {
+	padding-bottom: 0;
+}
+
+#port-title1{
+	color: #fff;
+}
+
+#vice-title1{
+	background-color: rgba(97,0,17,0.45);
+	font-size: 0.32rem;
+	color: #FBF1F2;
+}
+
+#item1{
+	background-image: url(../images/ymt_redesign_cover.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#item2{
+	background-image: url(../images/homepage_port2_cover.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+#port2-title{
+	position: absolute;
+	z-index: 1;
+	text-align: center;
+	color: #fff;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+#bicycle-title{
+	margin: 12% 0 0 10%;
+	width: 61%;
+	position: absolute;
+	z-index: 1;
+}
+
+#bicycle-vice-title{
+	text-align: right;
+}
+
+.port-item:last-child{
+	padding-bottom: 0;
+}
+
+#port-title1{
+	color: #fff;
+}
+
+.copyright{
+	padding-top: 40px;
+	padding-bottom: 0px;
+}
+
+@media screen and (max-width: 768px) {
+	.cover-text{
+		font-size: .96rem;
+	}
+
+	.cover-text span{
+		display: block;
+	}
+
+	.port-enter{
+		width: 100%;
+	}
+
+	#port-img1{
+		width: 75%;
+		margin: 0 auto;
+	}
+
+	#port-title1{
+ 		font-size: 40px;
+		text-align: center;
+		padding: 12% 0 8%;
+	}
+
+
+}
+
+@media screen and (min-width: 768px) {
+	.home-fs{
+
+	}
+
+	.port-title-left{
+		float: left;
+	}
+
+	.port-img-right{
+		float: right;
+	}
+
+	#item1{
+	}
+
+	#port-img1{
+		width: 50%;
+		padding: 8% 5% 0 0;
+	}
+
+	#port-title1{
+		width: 40%;
+ 		font-size: 0.4rem;
+		text-align: center;
+		margin: 15% 0 0;
+	}
+
+	#port-title1 p:nth-child(1){
+		font-size: 0.36rem;
+	}
+
+	#port-title1 p{
+		margin-bottom: 2%;
+	}
+
+	#redesign-vice-title{
+		margin-left: 8%;
+		width:65%;
+		padding-left: 20px;
+		text-align: left;
+	}
+
+	#vice-title1{
+		margin-left: 2%;
+		width: 82%;
+		padding: 10px 20px;
+		text-align: left;
+		font-size: 0.22rem;
+	}
+
+	#library-main-title{
+		font-size: 0.48rem;
+	}
+
+	#library-vice-title{
+		font-size: 0.48rem;
+	}
+
+	#bicycle-main-title{
+		font-size: 0.48rem;
+		color: #fff;
+	}
+
+	#bicycle-vice-title{
+		font-size: 0.28rem;
+		color: #fff;
+	}
+
+	#bicycle-mobile-cover-img{
+		display: none;
+	}
+}
+
+
+
