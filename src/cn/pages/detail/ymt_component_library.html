@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YMT Component Library</title>
+  <link rel="stylesheet" href="../../css/ymt_component_library.css"/>
+  <link rel="stylesheet" href="../../css/common.css"/>
+</head>
+<body>
+<!--navigation bar-->
+<header class="nav">
+	<div class="nav-bar opacity_septicial">
+		<div class="nav-left">
+			<a href="../../homepage.html" target="_self">BINGJIE REN'S&nbsp;&nbsp;&nbsp;PORTFOLIO</a>
+		</div>
+		<div class="nav-right">
+			<ul class="menu-list">
+				<li><a class="menu-home" href="../../homepage.html">首页</a></li>
+				<li><a class="menu-project" href="../projects_list.html">项目</a></li>
+				<li><a class="menu-resume" href="../../resume/cv_cn.pdf" target="_blank">简历</a></li>
+				<li><a class="menu-contact" href="#contact">联系方式</a></li>
+				<li><a class="menu-lan-ex" href="../../../en/pages/detail/ymt_component_library_en.html">EN</a></li>
+				<div class="blank_clear"></div>
+			</ul>
+			<a class="mobile-menu-icon" id="menu-icon"><img src="../../../images/mobile_menu_icon.png"></a>
+			<a class="mobile-menu-icon" id="cancel-icon"><img src="../../../images/mobile_cancel_icon.png"></a>
+		</div>
+	</div>
+	<div class="nav-dropdown">
+		<ul class="dropdown-list">
+			<li><a class="dropdown-home" href="../../homepage.html">首页</a></li>
+			<li><a class="dropdown-project" href="../projects_list.html">项目</a></li>
+			<li><a class="dropdown-resume" href="../../resume/cv_cn.pdf" target="_blank">简历</a></li>
+			<li><a class="dropdown-contact" href="#contact">联系方式</a></li>
+			<li><a class="dropdown-lan-ex" href="../../../en/pages/detail/ymt_component_library_en.html">EN</a></li>
+		</ul>
+	</div>
+</header>
+<!--first frame-封面-->
+	<div id="cover">
+		<div class="title">
+			<p id="main-title">YMT商家操作系统控件库</p>
+		</div>
+		<img id="cover-img" src="../../../images/library_cover.jpg"/>
+	</div>
+<!--second frame-项目概览-->
+	<div class="bg bg1" id="overview">
+		<div id="library-overview">
+			<p class="overview-title">项目概览</p>
+			<p class="overview-content"><span>项目时间：</span>2016.08-2017.03</p>
+			<p class="overview-content"><span>项目简介：</span>相对于买家操作系统来说，商家后台操作系统有着多线程多功能的特点。商家用户很可能要面对大量的表格，表单，数据，以及进行各种复杂的操作和设置。因此，规范页面布局的一致性和页面交互的流畅性和有效性，能有效地减少它们犯错的几率，使得操作能顺利进行。而且，建立一套可参照的设计规范和控件标准，对于提升开发的协同和开发效率也将发挥巨大的作用。</br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们以Ant Design为依托，结合YMT商家系统自身的特点，整理了第一版组件库。</p>
+		</div>
+		<div id="team-role">
+			<p class="overview-title">设计角色</p>
+			<p class="overview-content"><span>角色定位：</span>交互设计</p>
+			<p class="overview-content"><span>负责内容：</span></br>定义信息层级</br>交互设计</br>高保真原型</br>部分UI设计</p>
+		</div>		
+	</div>
+<!--third frame-项目背景-->
+	<div class="bg bg2" id="background">
+		<p class="ct">项目背景</p>
+		<p class="dscr">相对于买家操作系统来说，商家后台操作系统有着多线程多功能的特点。商家用户很可能要面对大量的表格，表单，数据，以及进行各种复杂的操作和设置。2016年我开始负责后台商家后台操作系统的交互设计工作时，发现当时的后台存在术语不统一，相似页面布局不一致，同一行为的交互方式和视觉展示不一致等问题，给商家用户的操作效率和体验感受带来很大的影响。</p>
+		<div id="historical-page"><img class="ct-img" src="../../../images/library_historical_order_page.jpg"/></div>
+		<p class="mutiline-dscr">另外，我们还发现，虽然商家后台涉及的功能和页面繁杂，但很多页面和操作控件存在极大的相似性，如果能将这些重复使用率高的控件和页面进行梳理，一方面，统一布局和交互控件能将降低用户的认知和学习成本；另一方面，可以极大地提高和开发人员的协同及开发效率。</p>
+		<p class="bottom-dscr">在此情况下，我们团队以Ant Design提供的控件库为基础，结合自身的平拍风格和网站特点，建立了一个控件库，以便统一商家端Web和APP端的交互设计规范，提升团队开发迭代效率。</p>
+	</div>
+<!--forth frame-1-组件库描述-->
+	<div class="bg bg1">
+		<div>
+			<p class="ct">组件库</p>
+			<p class="mutiline-dscr">Web 可视屏幕区域相对较大，用户使用系统一般使用键盘和鼠标；而移动端的屏幕较小，是靠各种手势及按压产生交互。鉴于web端和移动端的操作平台有各自的特点，交互行为和用户的使用习惯有很大的区别，因此根据各自设备端的特点，创建和整理了两套组件库。</p>
+			<p class="mutiline-dscr">例如，在web端，后台操作系统最常见的页面是做各项管理的列表页，两个设备端管理列表页面布局设计如下所示。</p>
+		</div>
+		<div id="pc-layout" ><img src="../../../images/library_web_layout.png"/></div>
+		<div id="mobile-layout"><img src="../../../images/library_mobile_layout.png"/></div>
+		<p class="mutiline-dscr">再比如，商家操作会有高概率的操作反馈和消息提示。在旧版本的web和app端多以使用弹框为主。虽然弹框提示能起到非常强的警示作用，但是却阻断了用户的操作流，在很多情况下是影响用户体验的。因此，根据反馈对用户的打扰程度，从轻到重分为三种。</p>
+<!--forth frame-2-WEB提示示例-->
+		<div id="web-notification">
+			<p class="explain-title">WEB端</p>
+			<div class="notification-type">
+				<p class="type-title">当前操作反馈</p>
+				<p class="type-dscr">轻量提示，出现在用户操作行为的当前位置，在及时的对用户做出反馈的同时对整个操作流做最小的干扰。适用于如复制单号，填写表单等不对用户操作进行打扰的场景。</p>
+				<div class="eg-btn">
+					<p style="padding-top: 15px; margin-bottom: 28px; height: 37px; line-height: 37px;">
+						<a id="click_btn_web_one" class="btn">点我</a>
+						<span id="click_btn_web_one_span" class="action_span_first">成功提示文案</span>
+					</p>
+					<p>
+						<a id="click_btn_web_two" class="btn">点我</a>
+						<span id="click_btn_web_two_span" class="action_span_second">错误提示文案</span>
+					</p>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">当前操作确认提示</p>
+				<p class="type-dscr">出现在用户操作行为当前位置，但需要用户做出选择，对用户操作流有一定的打扰。适用于如无法选择指标等希望用户重新操作但又对整个过程做较少打扰的场景。</p>
+				<div class="eg-btn">
+					<a id="click_btn_web_three" class="btn">点我</a>
+				</div>
+				<div class="action_div_first">
+					<div class="action_div_first_content"></div>
+					<div style="background-color: #fff; padding: 10px 0px;">
+						<p class="action_div_title">确认操作文案?</p>
+						<p>
+							<a id="click_btn_web_four" class="btn">取消</a>
+							<a id="click_btn_web_five" class="btn">确认</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">弹框提示</p>
+				<p class="type-dscr">出现在屏幕当中，伴有蒙层，会直接打断用户操作流。适用于需要用户打断当前行为重新操作，否则会造成其他风险或给用户带来其他体验问题的场景。</p>
+				<div class="eg-btn">
+					<a id="click_btn_web_six" class="btn">点我</a>
+				</div>
+			</div>
+		</div>
+<!--forth frame-3-APP提示示例-->
+		<div id="mobile-notification">
+			<p class="explain-title">APP端</p>
+			<div class="notification-type">
+				<p class="type-title">当前操作反馈</p>
+				<p class="type-dscr">轻量提示，一般出现在用户操输入内容的附近，直接给出正确/错误的反馈，不中断中户操作流。</p>
+				<div class="mobile-eg" style="position: relative;">
+					<img id="app_one_img_first" src="../../../images/library_mobile_notification.png"/>
+					<img id="app_one_img_second" src="../../../images/library_mobile_notification_feedback.png"/>
+					<a id="click_btn_app_one" class="btn btn_in_phone">点我</a>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">Toast提示</p>
+				<p class="type-dscr">在屏幕中央出现提示信息，一般显示3-5s之后自动消失。多用于反馈系统状态。</p>
+				<div class="mobile-eg" style="position:relative;">
+					<img id="app_two_img" src="../../../images/library_mobile_notification.png"/>
+					<a id="click_btn_app_two" class="btn btn_in_phone">点我</a>
+					<div class="action_toast">
+						<span class="toast_icon"></span>
+						<span>toast提示文案</span>
+					</div>
+				</div>
+			</div>
+			<div class="notification-type">
+				<p class="type-title">弹框提示</p>
+				<p class="type-dscr">出现在屏幕当中，伴有蒙层，会直接打断用户操作流。多用于警示性信息，须暂时中断用户操作以避免错误发生。</p>
+				<div class="mobile-eg" style="position: relative;">
+					<img id="app_three_img" src="../../../images/library_mobile_notification.png"/>
+					<a id="click_btn_app_three" class="btn btn_in_phone">点我</a>
+					<div class="action_toast_whole">
+						<div class="action_toast_whole_div">
+							<p>弹框提示文案</p>
+							<p class="action_toast_whole_bottom">
+								<a id="app_three_btn_cancel">取消</a>
+								<a id="app_three_btn_confirm">确认</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+<!--forth frame-4-组件库截图-->
+		<p class="explain-title">Web端操作系统组件库</p>
+		<img class="ct-img" src="../../../images/library_pclb_screenshot.jpg"/>
+		<p class="explain-title">APP端操作系统组件库</p>
+		<img class="ct-img" src=""/>
+<!--fifth frame-应用实例-->
+		<div>
+			<p class="ct">应用实例</p>
+			<p class="explain-title">订单线优化</p>
+			<img class="ct-img" src="../../../images/library_pc_example.png"/>
+			<img class="mobile-ct-img" src="../../../images/library_mobile_example.png"/>
+		</div>
+	</div>
+<!--sixth frame-小结-->
+	<div class="bg bg2">
+		<p class="ct">小结</p>
+		<p class="conclution">目前呈现的只是控件库的初版，相对比较粗略。建立组件库是一个长期的工作，需要和UI设计师，产品经理一起协作，随着项目的推进和功能的增删，不断地更新和迭代。</p>
+		<div class="bottom-dscr" id="visit"><span>访问：</span><a href="http://ant.design" target="_blank">Ant Design</a></div>
+	</div>
+<!--作品集列表-->
+	<div class="bottom-port-list">
+		<li class="bottom-list-item">
+ 				<div style="position: relative;">
+ 					<div class="bottom-mask">
+						<a href="./ymt_homepage.html">
+							<h2 class="bottom-project_title">YMT商家后台首页改版</h2>
+							<span class="bottom-project_category">Web App</span>
+						</a>
+					</div>
+ 					<img src="../../../images/listpage_port1.png" />
+ 				</div>
+				<p class="bottom-project-title">YMT商家后台首页改版</p>
+			</li>
+ 			<li class="bottom-list-item">
+ 				<div style="position: relative;">
+ 					<div class="bottom-mask">
+						<a href="./public_bicycle_system.html">
+							<h2 class="bottom-project_title">城市公共自行车系统概念设计</h2>
+							<span class="bottom-project_category">Web App</span>
+						</a>
+					</div>
+ 					<img src="../../../images/listpage_port3.png" />
+ 				</div>
+				<p class="bottom-project-title">城市公共自行车系统概念设计</p>
+ 			</li>
+ 			<li class="bottom-list-item">
+ 				<div style="position: relative;">
+ 					<div class="bottom-mask">
+						<a href="./research_of_online_shopping_overseas.html">
+							<h2 class="bottom-project_title">1号店海购用户研究</h2>
+							<span class="bottom-project_category">Web App</span>
+						</a>
+					</div>
+ 					<img src="../../../images/listpage_port4.png" />
+ 				</div>
+				<p class="bottom-project-title">1号店海购用户研究</p>
+ 			</li>
+	</div>
+
+	<div class="web_confirm_toast">
+		<div class="web_confirm_content">
+			<p>弹框确认提示文案?</p>
+			<p>
+				<a class="web_confirm_cancel">取消</a>
+				<a class="web_confirm_confirm">确认</a>
+			</p>
+		</div>
+	</div>
+<!--版权说明-->
+	<footer>
+		<div class="copyright">
+			<span>Code & Design by Bingjie Ren &copy;&nbsp;2017</span>
+			<span>Last update: 2017-06-23 @ SH, China</span>
+		</div>
+	</footer>
+	<div class="top"></div>
+	<script src="../../../js/ymt_component_library.js"></script>
+	<script>
+		(function () {
+	      var html = document.documentElement
+	      var windowWidth = html.clientWidth
+	      html.style.fontSize = windowWidth / 10.24 + 'px'
+	    })()
+	</script>
+</body>
+
+
+
+

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Public Bicycle System Design</title>
+  <link rel="stylesheet" href="../../css/public_bicycle_system.css"/>
+  <link rel="stylesheet" href="../../css/common.css"/>
+</head>
+<body>
+<!--navigation bar-->
+<header class="nav">
+	<div class="nav-bar opacity_septicial">
+		<div class="nav-left">
+			<a href="../../homepage.html" target="_self">BINGJIE REN'S&nbsp;&nbsp;&nbsp;PORTFOLIO</a>
+		</div>
+		<div class="nav-right">
+			<ul class="menu-list">
+				<li><a class="menu-home" href="../../homepage.html">首页</a></li>
+				<li><a class="menu-project" href="../projects_list.html">项目</a></li>
+				<li><a class="menu-resume" href="../../resume/cv_cn.pdf" target="_blank">简历</a></li>
+				<li><a class="menu-contact" href="#contact">联系方式</a></li>
+				<li><a class="menu-lan-ex" href="../../../en/pages/detail/public_bicycle_system_en.html">EN</a></li>
+				<div class="blank_clear"></div>
+			</ul>
+			<a class="mobile-menu-icon" id="menu-icon"><img src="../../../images/mobile_menu_icon.png"></a>
+			<a class="mobile-menu-icon" id="cancel-icon"><img src="../../../images/mobile_cancel_icon.png"></a>
+		</div>
+	</div>
+	<div class="nav-dropdown">
+		<ul class="dropdown-list">
+			<li><a class="dropdown-home" href="../../homepage.html">首页</a></li>
+			<li><a class="dropdown-project" href="../projects_list.html">项目</a></li>
+			<li><a class="dropdown-resume" href="../../resume/cv_cn.pdf" target="_blank">简历</a></li>
+			<li><a class="dropdown-contact" href="#contact">联系方式</a></li>
+			<li><a class="dropdown-lan-ex" href="../../../en/pages/detail/public_bicycle_system_en.html">EN</a></li>
+		</ul>
+	</div>
+</header>
+<!--first frame-封面-->
+	<div id="cover">
+		<div class="title">
+			<p id="main-title">城市公共自行车系统概念设计</p>
+			<p id="vice-title">—— 以浙江金华为例</p>
+		</div>
+		<img id="cover-img" src="../../../images/bicycle_cover.jpg"/>
+		<img id="mobile-cover-img" src="../../../images/bicycle_mobile_cover.jpg"/>
+	</div>
+<!--second frame-项目概览-->
+	<div class="bg bg1" id="overview">
+		<div id="bicycle-overview">
+			<p class="overview-title">项目概览</p>
+			<p class="overview-content"><span>项目时间：</span>2015.08-2016.03</p>
+			<p class="overview-content"><span>项目简介：</span>公共自行车系统作为城市交通运输的一部分，扮演着不可小觑的角色；而骑行也是一种可全民参与的健身方式，经济又环保。如果能提升公共自行车的体验，发挥其价值，那么将有利于城市的居住环境和居民的身体健康。</br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以我的家乡金华为例，公共自行车自2013年设立到今已近两年时间，虽然政府机构一直在增设站点和自行车的数量，但是仍存在一些体验问题。在一系列课程的设计作业的基础上，通过用户访谈及分析，设计了一套电子系统交互方案，使线下与线上的互联体验更加顺畅。不过这只是一个概念性的设计，还需经过深度的有效性和可行性评估。</p>
+		</div>
+		<div id="team-role">
+			<p class="overview-title">团队角色</p>
+			<p class="overview-content"><span>角色定位：</span>用户研究，交互设计</p>
+			<p class="overview-content"><span>方法：</span>用户访谈，故事版, 热力图分析</p>
+			<p class="overview-content"><span>负责内容：</span></br>设定目标和任务</br>相关利益者访谈</br>确定目标人群，创建用户画像</br>创建使用场景，绘制故事版</br>现有基础设施分析</br>绘制路线/布点热点图</br>低保真/高保真原型图</br>概念设计</p>
+		</div>		
+	</div>
+<!--third frame-项目背景-->
+	<div class="bg bg2" id="background">
+		<p class="ct">项目背景</p>
+		<p class="dscr">公共自行车作为城市交通系统的一部分，早在2012年就列入了金华城市基础建设的一部分，并于2013年11月份正式投入使用。</br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;截止14年11月份，共计有近425个站点，8000多辆自行车投入使用，办卡总量超过5.9万张，日最高使用量达2.39万人次。为了惠及更多的居民，相关部门仍在筹划增加站点和自行车的数量。</p>
+		<div id="data-figure"><img src="../../../images/bicycle_datafigure.jpg"/></div>
+		<div id="mobile-data-figure"><img src="../../../images/bicycle_mobile_datafigure.jpg"/></div>
+	</div>
+<!--forth frame-城市公路热点图-->
+	<div class="bg bg4" id="hotpath">
+		<p class="ct">城市公路分布图</p>
+		<p class="dscr">金华城市道路的建设主要集中在环城路以内，婺江分流处的南北两侧，主路的左右两端集中建有商场，学校，医院，住宅区等居民频繁活动的场所，因而在上述区域的道路中使用自行车骑行的概率要远高于其他区域。</p>
+	</div>
+	<img id="hotpath-img" src="../../../images/bicycle_hotpath.jpg"/>
+	<img id="mobile-hotpath-img" src="../../../images/bicycle_mobile_hotpath.jpg"/>
+<!--fifth frame-自行车行驶实拍图-->
+	<div class="bg bg1">
+		<p class="ct">自行车行驶实拍图</p>
+		<p class="center-dscr">公共自行车的使用频率很高，在金华市区随时都可看见来往骑行车，有沿着江边缓行的市民，也有在繁华街道赶路的市民。</p>
+		<div class="photo photo-left"><img src="../../../images/bicycle_photo_weekday.jpg"/></div>
+		<div class="photo photo-right"><img src="../../../images/bicycle_photo_weekend.jpg"/></div>
+	</div>
+<!--sixth frame-布点图-->
+	<div class="bg bg4" id="hotspot">
+		<p class="ct">公共自行车站点分布图</p>
+		<p class="center-dscr">公共自行车的站点在主路，以及联通居民活动频繁的地区的支路上分布较为密集。</p>
+	</div>
+	<img id="hotspot-img" src="../../../images/bicycle_hotspot.jpg"/>
+	<img id="mobile-hotspot-img" src="../../../images/bicycle_mobile_hotspot.jpg"/>
+<!--seventh frame-站点实拍图-->
+	<div class="bg bg1">
+		<p class="ct">自行车布点实拍图</p>
+		<p class="center-dscr">自行车站点布置充分考虑人们的日常生活，在各大公共服务机构和小区附近都有排布。</p>
+		<div id="photo-above">
+			<div class="photo photo-above-left"><img src="../../../images/bicycle_photo_hospital.jpg"/></div>
+			<div class="photo photo-above-right"><img src="../../../images/bicycle_photo_community.jpg"/></div>
+		</div>
+		<div id="photo-below">
+			<div class="photo photo-left"><img src="../../../images/bicycle_photo_park.jpg"/></div>
+			<div class="photo photo-right"><img src="../../../images/bicycle_photo_riverside.jpg"/></div>
+		</div>		
+	</div>	
+<!--eighth frame-设计意义-->
+	<div class="bg bg2">
+		<p class="ct">设计意义</p>
+		<p class="mutiline-dscr">公共自行车系统作为城市交通运输的一部分，扮演着不可小觑的角色。尤其是在一些中小城市，道路交通并不复杂，城市面积也相对较小，骑行就成了一种好的选择。对比其他公共交通系统，自行车有着灵活，便捷的特点，而且对使用人群的技术要求低，适用范围广，不失为短途出行的一种绝佳选择。另一方面，骑行也是一种可全民参与的健身方式，使用公共自行车作为一种锻炼的选择，既经济又环保。</p>
+		<p class="dscr">我们观察到，由于公共自行车使用量日益增加，“潮汐现象”（所谓的“潮汐现象”是指短时间内使用人群过于集中而导致的站点全部空桩或满桩现象）这一所有公共交通出行方式的共性问题日益显著。自行车使用卡需单独办理，容易遗失或忘带等其他的一些体验问题，这个在之后的用户访谈中也进一步得到佐证。</p>
+		<div id="design_meaning_photo">
+			<div class="photo three_photo-left"><img src="../../../images/bicycle_photo_emptysite.jpg"/></div>
+			<div class="photo three_photo-left"><img src="../../../images/bicycle_photo_fullsite.jpg"/></div>
+			<div class="photo three_photo-right"><img src="../../../images/bicycle_photo_basket.jpg"/></div>
+		</div>
+	</div>
+<!--ninth frame-利益相关者地图-->
+	<div class="bg bg1" >
+		<p class="ct">利益相关者地图</p>
+		<p class="mutiline-dscr">绘制利益相关者地图，进行利益相关者的分析，有利于全面梳理产品所涉及到的各个相关方和使用场景，以便分析主要利益者和产品设计中可能面临的局限和瓶颈。</p>
+		<p class="mutiline-dscr">显而易见，骑车者是该产品最主要的利益相关者，他们的心理特征和使用该类产品的行为特点是我们在设计中主要考虑的内容。交管部门和生产商将决定我们评估产品成本和实现可行性的依据，因而他们也是该产品涉及到的重要的利益相关方。</p>
+		<div class="ct-img"><img src="../../../images/bicycle_stakeholdermap.jpg"/></div>
+	</div>
+<!--tenth frame-用户访谈-->
+<div class="bg bg2" >
+		<p class="ct">用户访谈</p>
+		<p class="dscr">根据调查发现，使用公共自行车的用户主要有三类，在家的中老年，上班族和学生族。针对这三类用户进行用户访谈，选取了典型的使用场景和存在痛点的反馈。</p>
+		<div class="interview-persona">
+			<div class="persona-list">
+				<div class="interview-img ii-left"><img src="../../../images/bicycle_persona_quinquagenarian.png"/></div>
+				<div class="interview-feedback if-right">
+					<div class="user-speak"><p>“会骑这个自行车去买买菜，或者去附近的银行，家楼下和超市附近都有（站）点，比坐公交车方便，随用随取，也不要等车。”</p></div>
+					<div class="user-speak"><p>“感觉车篮子不实用，缝隙太大，篮子小，有时候菜放不下，不套塑料袋会漏掉。”</p></div>
+					<div class="user-speak"><p>“自行车卡不是很方便，没有带包就容易丢，放口袋里骑车怕掉。包的话不敢放篮子里，别人一拿就走了。”</p></div>
+				</div>
+			</div>
+			<div class="persona-list">
+				<div class="interview-img ii-right"><img src="../../../images/bicycle_persona_ol.png"/></div>
+				<div class="interview-feedback if-left">
+					<div class="user-speak"><p>“有时候会骑车上班，上班地点不是很远，早上容易堵车，而且不好停车；公交车要等，而且要走一段，骑车方便点。”</p></div>
+					<div class="user-speak"><p>“现在选择骑行比以前多，多了好多站点，方便很多。”</p></div>
+					<div class="user-speak"><p>“有些车不是很好骑了。站点的机器有时候刷卡不灵，站点的操作系统不好用，也没提供什么特别有用的服务，用了一次以后就再没用过了。”</p></div>
+				</div>
+			</div>
+			<div class="persona-list" id="pl-bottom">
+				<div class="interview-img ii-left"><img src="../../../images/bicycle_persona_student.png"/></div>
+				<div class="interview-feedback if-right">
+					<div class="user-speak"><p>“一般就用来骑车上学比较多，或者周末去上课啊之类的。”</p></div>
+					<div class="user-speak"><p>“早上去学校晚点的话就没车位放，晚上晚走的话又没有车了，只能坐公交车回去。”</p></div>
+					<div class="user-speak"><p>“公交卡容易掉，我有同学都补办了好几张了。”</p></div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--eleventh frame-故事版-->
+	<div class="bg bg1">
+		<p class="ct">故事版</p>
+		<p class="dscr">通过分析用户访谈的数据，结合目前公共自行车系统的现状，将主要场景定位在提升电子操作系统和与现有实体设施互联的优化上。根据场景绘制故事版如下：</p>
+		<div class="storyboard">
+			<p class="explain-title">场景1</p>
+			<div class="storyboard-img"><img src="../../../images/bicycle_storyboard1.jpg"/></div>
+		</div>
+		<div class="storyboard">
+			<p class="explain-title">场景2</p>
+			<div class="storyboard-img"><img src="../../../images/bicycle_storyboard2.jpg"/></div>
+		</div>
+		<div class="storyboard" id="sb-bottom">
+			<p class="explain-title">场景3</p>
+			<div class="storyboard-img"><img src="../../../images/bicycle_storyboard3.jpg"/></div>
+		</div>
+	</div>
+<!--last frame-概念设计原型图-->
+	<div class="bg bg3">
+		<p class="ct">概念设计原型图</p>
+		<p class="dscr">以故事版为触发场景，根据用户反馈，从互联的感念出发，设计了app端，watch端和站点操作屏的交互系统，期望解决用户携带卡不方便的问题，同时对现有系统的用户体验进行优化。</p>
+		<div class="interaction-design">
+			<p class="explain-title">站点电子操作系统</p>
+			<div class="design-pic"><img src="../../../images/bicycle_site_design.jpg"/></div>
+		</div>
+		<div class="interaction-design">
+			<p class="explain-title">APP 操作系统</p>
+			<div class="design-pic"><img src="../../../images/bicycle_app_design.jpg"/></div>
+		</div>
+		<div class="interaction-design" id="id-bottom">
+			<p class="explain-title">watch 操作系统</p>
+			<div class="design-pic"><img src="../../../images/bicycle_watch_design.jpg"/></div>
+		</div>
+	</div>
+<!--last frame-小结-->
+	<div class="bg bg1">
+		<p class="ct">小结</p>
+		<p class="mutiline-dscr">本项目来源于一次课程作业选题，由于选题与我以及家人的日常息息相关，因此在课后又做了实体调研作为补充，将整个作业完善的更加丰满。但毕竟来源与课程作业，只是一个概念性的设计，并未经过严格的可行性评估。</p>
+		<p class="mutiline-dscr">这个作业完成于2015年，在2016年初进行补充。直到2017将其整理并编写在自己的作品集网站上，已经过去了两年。很高兴的是，在这两年中，金华的公共自行车系统也日新月异，有了很大的改善，作业中的不少理念已经得以实现。</p>
+		<div class="app-icon-img">
+			<div class="app-icon"><img src="../../../images/bicycle_jinhuabike_app.jpg"/></div>
+			<div class="app-icon"><img src="../../../images/bicycle_jinhuaxing_app.jpg"/></div>
+		</div>
+		<p class="mutiline-dscr">目前上述两个app已经在金华地区范围内广泛使用。</p>
+		<p class="bottom-dscr">根据目前的发展趋势，公共自行车系统作为城市基础建设的一部分，城市交通的一个重要组成部分，之后一定会和整个城市的互联网生活更紧密的结合起来。</p>
+	</div>
+<!--作品集列表-->
+	<div class="bottom-port-list">
+		<li class="bottom-list-item">
+ 				<div style="position: relative;">
+ 					<div class="bottom-mask">
+						<a href="./ymt_homepage.html">
+							<h2 class="bottom-project_title">YMT商家后台首页改版</h2>
+							<span class="bottom-project_category">Web App</span>
+						</a>
+					</div>
+ 					<img src="../../../images/listpage_port1.png" />
+ 				</div>
+				<p class="bottom-project-title">YMT商家后台首页改版</p>
+			</li>
+			<li class="bottom-list-item">
+ 				<div style="position: relative;">
+ 					<div class="bottom-mask">
+						<a href="./ymt_component_library.html">
+							<h2 class="bottom-project_title">YMT商家后台系统控件库</h2>
+							<span class="bottom-project_category">Web App</span>
+						</a>
+					</div>
+ 					<img src="../../../images/listpage_port2.png" />
+ 				</div>
+				<p class="bottom-project-title">YMT商家后台系统控件库</p>
+ 			</li>
+ 			<li class="bottom-list-item">
+ 				<div style="position: relative;">
+ 					<div class="bottom-mask">
+						<a href="./research_of_online_shopping_overseas.html">
+							<h2 class="bottom-project_title">1号店海购用户研究</h2>
+							<span class="bottom-project_category">Web App</span>
+						</a>
+					</div>
+ 					<img src="../../../images/listpage_port4.png" />
+ 				</div>
+				<p class="bottom-project-title">1号店海购用户研究</p>
+ 			</li>
+	</div>
+<!--版权说明-->
+	<footer>
+		<div class="copyright">
+			<span>Code & Design by Bingjie Ren &copy;&nbsp;2017</span>
+			<span>Last update: 2017-06-23 @ SH, China</span>
+		</div>
+	</footer>
+	<div class="top"></div>
+	<script src="../../../js/common.js"></script>
+	<script>
+		(function () {
+	      var html = document.documentElement
+	      var windowWidth = html.clientWidth
+	      html.style.fontSize = windowWidth / 10.24 + 'px'
+	    })()
+	</script>
+</body>
+
+
+
+
