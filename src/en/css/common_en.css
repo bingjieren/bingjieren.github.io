@@ -87,6 +87,17 @@ a{
 	margin-bottom: 20px;
 }
 
+.footer_contact img{
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	margin: 12px 0px 15px 10px;
+}
+
+.footer_email{
+	color: #fff;
+}
+
 .email-ad{
 	margin-bottom: 29px;
 }
@@ -264,6 +275,11 @@ a{
 		display: none;
 	}
 
+	#vice-title1{
+		padding: 5px 30px;
+		width: auto;
+		display: inline-block;
+	}
 }
 
 @media screen and (min-width: 768px){

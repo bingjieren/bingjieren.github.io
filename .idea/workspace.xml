@@ -2,146 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d197f88e-e3ab-49f9-baa8-d4cf90c7343c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/.Rhistory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/homepage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/projects_list.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/public_bicycle_system.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/research_of_online_shopping_overseas.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/ymt_component_library.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/css/ymt_homepage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/homepage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_app_design.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_datafigure.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_datafigure_en.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_hotpath.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_hotspot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_jinhuabike_app.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_jinhuaxing_app.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_mobile_cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_mobile_datafigure.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_mobile_datafigure_en.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_mobile_hotpath.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_mobile_hotspot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_persona_ol.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_persona_quinquagenarian.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_persona_student.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_basket.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_community.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_emptysite.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_fullsite.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_hospital.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_park.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_riverside.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_weekday.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_photo_weekend.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_site_design.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_stakeholdermap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_storyboard1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_storyboard2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_storyboard3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/bicycle_watch_design.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/contact_email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/contact_linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/contact_xlblog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_bicycle_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_bicycle_mobile_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_library_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_library_mobile_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_main_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_main_mobile_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_ymt_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/homepage_ymt_mobile_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/icon_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_applb_screenshot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_historical_order_page.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_icon_fail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_icon_success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_icon_warn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_mobile_example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_mobile_layout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_mobile_notification.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_mobile_notification_en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_pc_example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_pclb_screenshot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/library_web_layout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_blank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port1_en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port2_en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port3_en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/listpage_port4_en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_jm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_persona1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_persona2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_photo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/oversea_shopping_research_photo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_app_interface.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_card.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_card_rmb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_card_usd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_home_chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_hot_list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_hotlist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_info_center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_left_nav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_magic_lamp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_number_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_number_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_number_0304.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_number_05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_number_06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_number_0708.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_concept_path.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_cover_mockup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_ia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_layout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_oldpage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_three_qst_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_three_qst_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_three_qst_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_timeline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_ur_fd_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_ur_fd_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_redesign_ur_fd_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/images/ymt_seller_alert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/js/ymt_component_library.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/pages/detail/public_bicycle_system.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/pages/detail/research_of_online_shopping_overseas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/pages/detail/ymt_component_library.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/pages/detail/ymt_homepage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/pages/projects_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/resume/cv_cn.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cn/resume/cv_en.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/css/common_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/css/homepage_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/css/projects_list_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/css/public_bicycle_system_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/css/research_of_online_shopping_overseas_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/css/ymt_component_library_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/css/ymt_homepage_en.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/homepage_en.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/pages/detail/public_bicycle_system_en.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/pages/detail/research_of_online_shopping_overseas_en.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/pages/detail/ymt_component_library_en.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/pages/detail/ymt_homepage_en.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/pages/projects_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/resume/cv_cn.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/en/resume/cv_en.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_app_design.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_datafigure.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_datafigure_en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_hotpath.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_hotspot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_jinhuabike_app.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_jinhuaxing_app.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_mobile_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_mobile_datafigure.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_mobile_datafigure_en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_mobile_hotpath.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_mobile_hotspot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_persona_ol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_persona_quinquagenarian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_persona_student.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_basket.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_community.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_emptysite.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_fullsite.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_hospital.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_park.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_riverside.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_weekday.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_photo_weekend.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_site_design.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_stakeholdermap.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_storyboard1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_storyboard2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_storyboard3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/bicycle_watch_design.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/contact_email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/contact_linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/contact_xlblog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_bicycle_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_bicycle_mobile_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_library_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_library_mobile_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_main_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_main_mobile_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_ymt_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/homepage_ymt_mobile_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/icon_top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_applb_screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_historical_order_page.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_icon_fail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_icon_success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_icon_warn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_mobile_example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_mobile_layout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_mobile_notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_mobile_notification_en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_pc_example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_pclb_screenshot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/library_web_layout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_blank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port1_en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port2_en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port3_en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/listpage_port4_en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_jm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_persona1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_persona2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_photo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/oversea_shopping_research_photo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_app_interface.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_card_rmb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_card_usd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_home_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_hot_list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_hotlist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_info_center.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_left_nav.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_magic_lamp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_number_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_number_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_number_0304.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_number_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_number_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_number_0708.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_concept_path.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_cover_mockup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_ia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_layout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_oldpage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_three_qst_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_three_qst_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_three_qst_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_timeline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_ur_fd_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_ur_fd_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_redesign_ur_fd_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/images11/ymt_seller_alert.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/css/common.css" afterPath="$PROJECT_DIR$/src/cn/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/css/homepage.css" afterPath="$PROJECT_DIR$/src/cn/css/homepage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/homepage.html" afterPath="$PROJECT_DIR$/src/cn/homepage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html" afterPath="$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/pages/detail/research_of_online_shopping_overseas.html" afterPath="$PROJECT_DIR$/src/cn/pages/detail/research_of_online_shopping_overseas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/pages/detail/ymt_component_library.html" afterPath="$PROJECT_DIR$/src/cn/pages/detail/ymt_component_library.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html" afterPath="$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/pages/projects_list.html" afterPath="$PROJECT_DIR$/src/cn/pages/projects_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/css/common_en.css" afterPath="$PROJECT_DIR$/src/en/css/common_en.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/css/homepage_en.css" afterPath="$PROJECT_DIR$/src/en/css/homepage_en.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/homepage_en.html" afterPath="$PROJECT_DIR$/src/en/homepage_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/pages/detail/public_bicycle_system_en.html" afterPath="$PROJECT_DIR$/src/en/pages/detail/public_bicycle_system_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/pages/detail/research_of_online_shopping_overseas_en.html" afterPath="$PROJECT_DIR$/src/en/pages/detail/research_of_online_shopping_overseas_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/pages/detail/ymt_component_library_en.html" afterPath="$PROJECT_DIR$/src/en/pages/detail/ymt_component_library_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/pages/detail/ymt_homepage_en.html" afterPath="$PROJECT_DIR$/src/en/pages/detail/ymt_homepage_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/en/pages/projects_list.html" afterPath="$PROJECT_DIR$/src/en/pages/projects_list.html" />
     </list>
     <ignored path="bingjieren.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -164,11 +147,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ymt_component_library_en.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/en/pages/detail/ymt_component_library_en.html">
+      <file leaf-file-name="ymt_homepage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="148" column="43" selection-start-line="148" selection-start-column="24" selection-end-line="148" selection-end-column="43" />
+            <state relative-caret-position="4740">
+              <caret line="316" column="13" selection-start-line="302" selection-start-column="4" selection-end-line="316" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="98" column="1" selection-start-line="89" selection-start-column="0" selection-end-line="98" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -177,88 +170,82 @@
       <file leaf-file-name="common_en.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/en/css/common_en.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="267">
+              <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/css/common.css">
+      <file leaf-file-name="public_bicycle_system.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="3615">
+              <caret line="241" column="14" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#li#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#1;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#li#2;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ymt_component_library.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/ymt_component_library.js">
+      <file leaf-file-name="projects_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/pages/projects_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+            <state relative-caret-position="534">
+              <caret line="107" column="10" selection-start-line="95" selection-start-column="4" selection-end-line="107" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="public_bicycle_system.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/css/public_bicycle_system.css">
+      <file leaf-file-name="public_bicycle_system_en.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/en/pages/detail/public_bicycle_system_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="235" column="61" selection-start-line="235" selection-start-column="61" selection-end-line="235" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ymt_homepage_en.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="research_of_online_shopping_overseas_en.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/en/pages/detail/research_of_online_shopping_overseas_en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="134" column="61" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ymt_component_library_en.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/en/pages/detail/ymt_component_library_en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="226" column="61" selection-start-line="226" selection-start-column="61" selection-end-line="226" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ymt_homepage_en.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/en/pages/detail/ymt_homepage_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+            <state relative-caret-position="309">
+              <caret line="298" column="31" selection-start-line="298" selection-start-column="31" selection-end-line="298" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="public_bicycle_system_en.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/en/css/public_bicycle_system_en.css">
+      <file leaf-file-name="projects_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/en/pages/projects_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ymt_component_library_en.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/en/css/ymt_component_library_en.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="398" column="5" selection-start-line="396" selection-start-column="4" selection-end-line="398" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ymt_component_library.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/css/ymt_component_library.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="402" column="5" selection-start-line="402" selection-start-column="5" selection-end-line="402" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ymt_component_library.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/ymt_component_library.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="136" column="36" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+            <state relative-caret-position="597">
+              <caret line="122" column="12" selection-start-line="122" selection-start-column="12" selection-end-line="122" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -274,30 +261,30 @@
       <list>
         <option value="$PROJECT_DIR$/cn/homepage.html" />
         <option value="$PROJECT_DIR$/cn/css/homepage.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/cn/pages/projects_list.html" />
-        <option value="$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html" />
         <option value="$PROJECT_DIR$/src/cn/css/ymt_homepage.css" />
-        <option value="$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html" />
+        <option value="$PROJECT_DIR$/src/en/css/ymt_homepage_en.css" />
+        <option value="$PROJECT_DIR$/src/cn/css/public_bicycle_system.css" />
+        <option value="$PROJECT_DIR$/src/en/css/public_bicycle_system_en.css" />
+        <option value="$PROJECT_DIR$/src/js/ymt_component_library.js" />
+        <option value="$PROJECT_DIR$/src/en/css/ymt_component_library_en.css" />
+        <option value="$PROJECT_DIR$/src/cn/css/ymt_component_library.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/cn/homepage.html" />
         <option value="$PROJECT_DIR$/src/cn/css/homepage.css" />
         <option value="$PROJECT_DIR$/src/en/homepage_en.html" />
         <option value="$PROJECT_DIR$/src/en/css/homepage_en.css" />
+        <option value="$PROJECT_DIR$/src/cn/css/common.css" />
+        <option value="$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html" />
+        <option value="$PROJECT_DIR$/src/cn/pages/detail/ymt_component_library.html" />
+        <option value="$PROJECT_DIR$/src/cn/pages/detail/research_of_online_shopping_overseas.html" />
+        <option value="$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html" />
+        <option value="$PROJECT_DIR$/src/cn/pages/projects_list.html" />
         <option value="$PROJECT_DIR$/src/en/pages/projects_list.html" />
-        <option value="$PROJECT_DIR$/src/en/css/ymt_homepage_en.css" />
+        <option value="$PROJECT_DIR$/src/en/css/common_en.css" />
         <option value="$PROJECT_DIR$/src/en/pages/detail/public_bicycle_system_en.html" />
         <option value="$PROJECT_DIR$/src/en/pages/detail/research_of_online_shopping_overseas_en.html" />
-        <option value="$PROJECT_DIR$/src/cn/pages/detail/research_of_online_shopping_overseas.html" />
-        <option value="$PROJECT_DIR$/src/cn/css/public_bicycle_system.css" />
-        <option value="$PROJECT_DIR$/src/en/css/public_bicycle_system_en.css" />
-        <option value="$PROJECT_DIR$/src/js/ymt_component_library.js" />
-        <option value="$PROJECT_DIR$/src/en/pages/detail/ymt_homepage_en.html" />
         <option value="$PROJECT_DIR$/src/en/pages/detail/ymt_component_library_en.html" />
-        <option value="$PROJECT_DIR$/src/en/css/ymt_component_library_en.css" />
-        <option value="$PROJECT_DIR$/src/cn/css/ymt_component_library.css" />
-        <option value="$PROJECT_DIR$/src/cn/pages/detail/ymt_component_library.html" />
-        <option value="$PROJECT_DIR$/src/en/css/common_en.css" />
-        <option value="$PROJECT_DIR$/src/cn/css/common.css" />
+        <option value="$PROJECT_DIR$/src/en/pages/detail/ymt_homepage_en.html" />
       </list>
     </option>
   </component>
@@ -337,7 +324,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -353,24 +339,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bingjieren.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bingjieren.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bingjieren.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -566,6 +534,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -644,23 +613,24 @@
       <updated>1511798257885</updated>
       <workItem from="1511798259498" duration="352000" />
       <workItem from="1511798668130" duration="8055000" />
-      <workItem from="1511858593907" duration="3125000" />
+      <workItem from="1511858593907" duration="7239000" />
+      <workItem from="1511874668563" duration="357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11532000" />
+    <option name="totallyTimeSpent" value="16003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7350544" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -689,6 +659,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/en/homepage_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/css/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="182" column="23" selection-start-line="182" selection-start-column="23" selection-end-line="182" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/css/homepage_en.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4740">
+          <caret line="316" column="13" selection-start-line="302" selection-start-column="4" selection-end-line="316" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/ymt_component_library.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="232" column="14" selection-start-line="232" selection-start-column="14" selection-end-line="232" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/research_of_online_shopping_overseas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="140" column="14" selection-start-line="140" selection-start-column="14" selection-end-line="140" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="241" column="14" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/projects_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="78" selection-start-line="127" selection-start-column="65" selection-end-line="127" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/en/homepage_en.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2130">
@@ -725,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4320">
           <caret line="288" column="11" selection-start-line="288" selection-start-column="11" selection-end-line="288" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="57" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,76 +831,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cn/homepage.html" />
     <entry file="file://$PROJECT_DIR$/cn/css/homepage.css" />
-    <entry file="file://$PROJECT_DIR$/src/cn/pages/projects_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2451">
-          <caret line="131" column="73" selection-start-line="131" selection-start-column="73" selection-end-line="131" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="119" column="43" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="56" column="116" selection-start-line="56" selection-start-column="116" selection-end-line="56" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/homepage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="142" column="16" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/css/homepage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="131" column="5" selection-start-line="129" selection-start-column="4" selection-end-line="131" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/css/homepage_en.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="41" column="7" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/pages/projects_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/homepage_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2130">
-          <caret line="142" column="15" selection-start-line="142" selection-start-column="15" selection-end-line="142" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/css/ymt_homepage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="57" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,15 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/public_bicycle_system_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2925">
-          <caret line="195" column="86" selection-start-line="195" selection-start-column="86" selection-end-line="195" selection-end-column="86" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,35 +875,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/ymt_homepage_en.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/css/ymt_component_library_en.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="398" column="5" selection-start-line="396" selection-start-column="4" selection-end-line="398" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/research_of_online_shopping_overseas_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/research_of_online_shopping_overseas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="408">
+          <caret line="32" column="78" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
         </state>
       </provider>
     </entry>
@@ -937,38 +886,144 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="402" column="5" selection-start-line="402" selection-start-column="5" selection-end-line="402" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/css/ymt_component_library_en.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1347">
+          <caret line="398" column="5" selection-start-line="396" selection-start-column="4" selection-end-line="398" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/homepage_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/ymt_component_library_en.html">
+    <entry file="file://$PROJECT_DIR$/src/en/css/homepage_en.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="148" column="43" selection-start-line="148" selection-start-column="24" selection-end-line="148" selection-end-column="43" />
+        <state relative-caret-position="2640">
+          <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/css/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="182" column="23" selection-start-line="182" selection-start-column="23" selection-end-line="182" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="78" selection-start-line="127" selection-start-column="65" selection-end-line="127" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/ymt_component_library.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="136" column="36" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+        <state relative-caret-position="3480">
+          <caret line="232" column="14" selection-start-line="232" selection-start-column="14" selection-end-line="232" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/en/css/common_en.css">
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/research_of_online_shopping_overseas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        <state relative-caret-position="2100">
+          <caret line="140" column="14" selection-start-line="140" selection-start-column="14" selection-end-line="140" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/public_bicycle_system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="241" column="14" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/detail/ymt_homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4740">
+          <caret line="316" column="13" selection-start-line="302" selection-start-column="4" selection-end-line="316" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/pages/projects_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="107" column="10" selection-start-line="95" selection-start-column="4" selection-end-line="107" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/pages/projects_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="122" column="12" selection-start-line="122" selection-start-column="12" selection-end-line="122" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        <state relative-caret-position="603">
+          <caret line="98" column="1" selection-start-line="89" selection-start-column="0" selection-end-line="98" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/css/common_en.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/public_bicycle_system_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="235" column="61" selection-start-line="235" selection-start-column="61" selection-end-line="235" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/research_of_online_shopping_overseas_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="134" column="61" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/ymt_component_library_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="226" column="61" selection-start-line="226" selection-start-column="61" selection-end-line="226" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/en/pages/detail/ymt_homepage_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="298" column="31" selection-start-line="298" selection-start-column="31" selection-end-line="298" selection-end-column="31" />
           <folding />
         </state>
       </provider>

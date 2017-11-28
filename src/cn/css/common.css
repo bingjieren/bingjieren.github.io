@@ -87,6 +87,17 @@ a{
 	margin-bottom: 20px;
 }
 
+.footer_contact img{
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	margin: 12px 0px 15px 10px;
+}
+
+.footer_email{
+	color: #fff;
+}
+
 .email-ad{
 	margin-bottom: 29px;
 }
@@ -253,14 +264,20 @@ a{
 	}
 
 	.redirect_to_detail{
-		height: 40px;
-		line-height: 40px;
-		font-size: 20px;
-		width: 130px!important;
+		height: 30px;
+		line-height: 30px;
+		font-size: 14px;
+		width: 120px!important;
 	}
 
 	.bottom-project-title{
 		display: none;
+	}
+
+	#redesign-vice-title{
+		padding: 5px 30px;
+		width: auto;
+		display: inline-block;
 	}
 
 }
