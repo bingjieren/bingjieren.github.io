@@ -55,7 +55,7 @@ a{
 .explain-title{
 	color: #F8B551;
 	text-align: center;
-	font-size: 0.20rem;
+	/*font-size: 0.20rem;*/
 }
 
 .btn{
@@ -284,6 +284,9 @@ a{
 }
 
 @media screen and (max-width: 768px){
+	*{
+		font-size: 14px;
+	}
 	.bg{
 		padding: 10% 0 12%;
 	}
@@ -314,7 +317,7 @@ a{
 
 	.dscr, .center-dscr, .mutiline-dscr, .bottom-dscr{
 		width: 88%;
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 	}
 
 	.dscr, .mutiline-dscr, .bottom-dscr{
@@ -336,12 +339,12 @@ a{
 
 	.overview-title{
 		margin-bottom: 5%;
-		font-size: 0.64rem;
+		/*font-size: 0.64rem;*/
 	}
 
 	.overview-content{
 		margin: 0 0 10px;
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 	}
 
 	#pc-layout{
@@ -355,7 +358,7 @@ a{
 	}
 
 	.explain-title{
-		font-size: 0.28rem;
+		/*font-size: 0.28rem;*/
 		margin-top: 6%;
 	}
 
@@ -365,17 +368,17 @@ a{
 	}
 
 	.type-title{
-		font-size: 0.22rem;
+		/*font-size: 0.22rem;*/
 	}
 
 	.type-dscr{
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 		margin: 2% 0;
 	}
 
 	.conclution{
 		width: 90%;
-		font-size: 0.32rem;
+		/*font-size: 0.32rem;*/
 		margin: 2% auto;
 	}
 
@@ -385,7 +388,7 @@ a{
 	}
 
 	#visit a, #visit span{
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 	}
 
 	.action_div_first{
@@ -517,7 +520,7 @@ a{
 	.conclution{
 		width: 85%;
 		margin: 5% auto;
-		font-size: 0.28rem;
+		/*font-size: 0.28rem;*/
 	}
 
 	#visit{

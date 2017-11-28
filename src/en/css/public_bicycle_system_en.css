@@ -82,6 +82,9 @@ a{
 }
 
 @media screen and (max-width: 768px){
+	*{
+		font-size: 18px;
+	}
 	.bg{
 		padding: 10% 0 12%;
 	}
@@ -116,7 +119,7 @@ a{
 
 	.dscr, .center-dscr, .mutiline-dscr, .bottom-dscr{
 		width: 88%;
-		font-size: 0.28rem;
+		/*font-size: 0.28rem;*/
 	}
 
 	.mutiline-dscr{
@@ -144,7 +147,7 @@ a{
 
 	.overview-content{
 		margin: 0 0 10px;
-		font-size: 0.28rem;
+		/*font-size: 0.28rem;*/
 	}
 
 	.overview-content span{
@@ -179,7 +182,7 @@ a{
 	}
 
 	.user-speak p{
-		font-size: 0.24rem;
+		/*font-size: 0.24rem;*/
 	}
 
 	#pl-bottom{

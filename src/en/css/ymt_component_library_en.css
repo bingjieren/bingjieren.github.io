@@ -1,7 +1,7 @@
 *{
 	margin:0;
 	padding:0;
-	font-size: 0.14rem;
+	font-size: 20px;
 	overflow-x: hidden;
 	font-family: "黑体",PingFangSC, Helvetica, Arial, sans-serif;
 }
@@ -55,7 +55,7 @@ a{
 .explain-title{
 	color: #F8B551;
 	text-align: center;
-	font-size: 0.20rem;
+	/*font-size: 0.20rem;*/
 }
 
 .btn{
@@ -314,7 +314,7 @@ a{
 
 	.dscr, .center-dscr, .mutiline-dscr, .bottom-dscr{
 		width: 88%;
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 	}
 
 	.mutiline-dscr{
@@ -337,7 +337,7 @@ a{
 
 	.overview-content{
 		margin: 0 0 10px;
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 	}
 
 	#pc-layout{
@@ -351,7 +351,7 @@ a{
 	}
 
 	.explain-title{
-		font-size: 0.28rem;
+		/*font-size: 0.28rem;*/
 		margin-top: 6%;
 	}
 
@@ -365,13 +365,13 @@ a{
 	}
 
 	.type-dscr{
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 		margin: 2% 0;
 	}
 
 	.conclution{
 		width: 90%;
-		font-size: 0.32rem;
+		/*font-size: 0.32rem;*/
 		margin: 2% auto;
 	}
 
@@ -381,7 +381,7 @@ a{
 	}
 
 	#visit a, #visit span{
-		font-size: 0.20rem;
+		/*font-size: 0.20rem;*/
 	}
 
 	.action_div_first{
@@ -508,7 +508,7 @@ a{
 	.conclution{
 		width: 85%;
 		margin: 5% auto;
-		font-size: 0.28rem;
+		/*font-size: 0.28rem;*/
 	}
 
 	#visit{

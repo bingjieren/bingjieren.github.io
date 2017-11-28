@@ -129,6 +129,14 @@ img{
 	margin-top: 45%;
 }
 
+#port2-title{
+	color: #fff;
+}
+
+.library-main-title-mobile{
+	display: none;
+}
+
 @media screen and (max-width: 768px) {
 	.cover-text{
 		font-size: .96rem;
