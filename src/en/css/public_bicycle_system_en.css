@@ -79,6 +79,7 @@ a{
 
 .app-icon{
 	float: left;
+	border-radius: 21%;
 }
 
 @media screen and (max-width: 768px){
