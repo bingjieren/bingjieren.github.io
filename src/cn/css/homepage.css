@@ -106,16 +106,20 @@ img{
 	width: 200px;
 	margin-left: 8%;
 	margin-top: 5%;
+	color: #D4204B;
 }
 
 .component_btn{
 	width: 260px;
 	margin: 5% auto 0px;
+	color: #8F7A8A;
 }
 
 .bicycle_btn{
 	width: 260px;
-	margin-top: 45%;
+	margin-top: 5%;
+	float: right;
+	color: #46B0DF;
 }
 
 #port2-title{

@@ -19,9 +19,10 @@ a{
 
 .title{
 	margin: 12% 0 0 10%;
-	width: 61%;
+	width: 62%;
 	position: absolute;
 	z-index: 1;
+	text-align: right;
 }
 
 #vice-title{

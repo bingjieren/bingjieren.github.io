@@ -125,7 +125,7 @@ a{
 .redirect_to_detail{
 	border: 1px solid #fff;
 	border-radius: 8px;
-	color: #fff;
+	background-color: #fff;
 	text-align: center;
 	height: 60px;
 	line-height: 60px;
